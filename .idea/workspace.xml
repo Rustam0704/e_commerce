@@ -1,18 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dca3552a-af8f-49d0-9079-e92c81d2ef39" name="Changes" comment="" />
+    <list default="true" id="dca3552a-af8f-49d0-9079-e92c81d2ef39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/e_commerce.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e_commerce/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e_commerce/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e_commerce/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e_commerce/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/e_commerce/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/shop/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shop/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shop/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shop/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shop/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="CSS File" />
+      </list>
+    </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/templates/shop" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2bJe2cPASLSGkkliKlfd8B7y0AS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,13 +54,54 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Django Server.e_commerce.executor": "Debug",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "django.template.preview.state": "SHOW_EDITOR",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\pythonProject\6-oy\e_commerce\templates\shop" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="e_commerce" type="Python.DjangoServer" factoryName="Django server">
+      <module name="e_commerce" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="DJANGO_SETTINGS_MODULE" value="e_commerce.settings" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="localhost" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -43,8 +117,36 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705937402610</updated>
-      <workItem from="1705937417683" duration="1000" />
+      <workItem from="1705937417683" duration="2293000" />
+      <workItem from="1706027375458" duration="467000" />
+      <workItem from="1706028043574" duration="66000" />
+      <workItem from="1706028796408" duration="1165000" />
+      <workItem from="1706030017715" duration="700000" />
+      <workItem from="1706030749096" duration="1907000" />
+      <workItem from="1706032697142" duration="2939000" />
+      <workItem from="1706036391868" duration="439000" />
+      <workItem from="1706037088221" duration="221000" />
+      <workItem from="1706037322489" duration="340000" />
+      <workItem from="1706037697335" duration="295000" />
+      <workItem from="1706038322456" duration="1323000" />
+      <workItem from="1706039685247" duration="331000" />
+      <workItem from="1706040042127" duration="53000" />
+      <workItem from="1706040107339" duration="173000" />
+      <workItem from="1706040380924" duration="1743000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/shop/models.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

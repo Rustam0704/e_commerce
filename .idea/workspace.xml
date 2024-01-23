@@ -5,10 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dca3552a-af8f-49d0-9079-e92c81d2ef39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/shop/static/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/f123bdbd-88b9-456d-b479-53c03f747be3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/f123bdbd-88b9-456d-b479-53c03f747be3.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e_commerce/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/e_commerce/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/e_commerce/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/e_commerce/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/shop" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shop" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/shop/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shop/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shop/account.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shop/account.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shop/card.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shop/card.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/shop/contact.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shop/electronics-product.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shop/electronics-product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shop/fashion-child-product.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shop/fashion-child-product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shop/fashion-saree-product.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shop/fashion-saree-product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shop/footwear-product.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shop/footwear-product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shop/gift-product.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shop/gift-product.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/shop/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shop/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shop/product-detial-child1.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shop/product-detial-child1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shop/product-detials-child2.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shop/product-detials-child2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shop/product-detials-gift.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shop/product-detials-gift.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shop/product-detials-saree.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shop/product-detials-saree.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shop/product-detials-shoes.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shop/product-detials-shoes.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shop/product-detials-sound.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shop/product-detials-sound.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shop/product-detials-speaker.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shop/product-detials-speaker.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shop/product-detials-toy.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shop/product-detials-toy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shop/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/shop/toys-product.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/shop/toys-product.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,27 +60,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Django Server.e_commerce.executor": "Debug",
-    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "django.template.preview.state": "SHOW_EDITOR",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "list.type.of.created.stylesheet": "CSS",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Django Server.e_commerce.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;django.template.preview.state&quot;: &quot;SHOW_EDITOR&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\PycharmProjects\pythonProject\6-oy\e_commerce\shop" />
+      <recent name="C:\Users\User\PycharmProjects\pythonProject\6-oy\e_commerce\templates\static" />
       <recent name="C:\Users\User\PycharmProjects\pythonProject\6-oy\e_commerce\templates\shop" />
     </key>
   </component>
@@ -119,7 +143,15 @@
       <workItem from="1706039685247" duration="331000" />
       <workItem from="1706040042127" duration="53000" />
       <workItem from="1706040107339" duration="173000" />
-      <workItem from="1706040380924" duration="2220000" />
+      <workItem from="1706040380924" duration="2736000" />
+      <workItem from="1706043299125" duration="150000" />
+      <workItem from="1706043573264" duration="55000" />
+      <workItem from="1706043667032" duration="78000" />
+      <workItem from="1706043856634" duration="41000" />
+      <workItem from="1706043915238" duration="250000" />
+      <workItem from="1706044201889" duration="78000" />
+      <workItem from="1706044374877" duration="119000" />
+      <workItem from="1706044506905" duration="316000" />
     </task>
     <servers />
   </component>
